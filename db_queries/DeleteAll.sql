@@ -1,0 +1,2 @@
+DELETE FROM ConversationReferences
+DELETE FROM CustomerInfo

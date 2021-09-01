@@ -1,0 +1,19 @@
+{
+    "activityId": "f:49e4b17f-ad97-0fdf-80d4-3a06260b7280",
+    "user": {
+        "id": "29:1CjSViG-KjLYjMAXOK7YuCBAXDbmWttJyjHuXGsviYxTJU1yAEhP7Gvd_Iqx-aZ34USjNNdAic7zA_63zyII8lA",
+        "aadObjectId": "f1e47cbe-3de1-4e49-9e91-e931ccbc6e39"
+    },
+    "bot": {
+        "id": "28:b7ba5e35-9557-423c-9359-118ebcecb7cc",
+        "name": "Proactive-16"
+    },
+    "conversation": {
+        "isGroup": true,
+        "conversationType": "channel",
+        "tenantId": "d4a2ff9d-d46b-4616-8508-f7dfe6d3b433",
+        "id": "19:e114ff2667b142308b9a8a7ffe013f55@thread.tacv2"
+    },
+    "channelId": "msteams",
+    "serviceUrl": "https://smba.trafficmanager.net/emea/"
+}
